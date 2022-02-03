@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\bin\Debug\netcoreapp3.1\SpotifyDemo.exe
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\bin\Debug\netcoreapp3.1\SpotifyDemo.deps.json
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\bin\Debug\netcoreapp3.1\SpotifyDemo.runtimeconfig.json
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\bin\Debug\netcoreapp3.1\SpotifyDemo.runtimeconfig.dev.json
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\bin\Debug\netcoreapp3.1\SpotifyDemo.dll
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\bin\Debug\netcoreapp3.1\SpotifyDemo.pdb
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.AssemblyInfo.cs
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.dll
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.pdb
+C:\Users\marin\source\repos\SpotifyDemo\SpotifyDemo\obj\Debug\netcoreapp3.1\SpotifyDemo.genruntimeconfig.cache
